@@ -1,0 +1,218 @@
+country_code,country_name,income_group,category_code
+ABW,Aruba,High income,LCN
+AFG,Afghanistan,Low income,SAS
+AGO,Angola,Lower middle income,SSF
+ALB,Albania,Upper middle income,ECS
+AND,Andorra,High income,ECS
+ARE,United Arab Emirates,High income,MEA
+ARG,Argentina,Upper middle income,LCN
+ARM,Armenia,Upper middle income,ECS
+ASM,American Samoa,High income,EAS
+ATG,Antigua and Barbuda,High income,LCN
+AUS,Australia,High income,EAS
+AUT,Austria,High income,ECS
+AZE,Azerbaijan,Upper middle income,ECS
+BDI,Burundi,Low income,SSF
+BEL,Belgium,High income,ECS
+BEN,Benin,Lower middle income,SSF
+BFA,Burkina Faso,Low income,SSF
+BGD,Bangladesh,Lower middle income,SAS
+BGR,Bulgaria,Upper middle income,ECS
+BHR,Bahrain,High income,MEA
+BHS,"Bahamas, The",High income,LCN
+BIH,Bosnia and Herzegovina,Upper middle income,ECS
+BLR,Belarus,Upper middle income,ECS
+BLZ,Belize,Upper middle income,LCN
+BMU,Bermuda,High income,NAC
+BOL,Bolivia,Lower middle income,LCN
+BRA,Brazil,Upper middle income,LCN
+BRB,Barbados,High income,LCN
+BRN,Brunei Darussalam,High income,EAS
+BTN,Bhutan,Lower middle income,SAS
+BWA,Botswana,Upper middle income,SSF
+CAF,Central African Republic,Low income,SSF
+CAN,Canada,High income,NAC
+CHE,Switzerland,High income,ECS
+CHI,Channel Islands,High income,ECS
+CHL,Chile,High income,LCN
+CHN,China,Upper middle income,EAS
+CIV,Côte d'Ivoire,Lower middle income,SSF
+CMR,Cameroon,Lower middle income,SSF
+COD,"Congo, Dem. Rep.",Low income,SSF
+COG,"Congo, Rep.",Lower middle income,SSF
+COL,Colombia,Upper middle income,LCN
+COM,Comoros,Lower middle income,SSF
+CPV,Cabo Verde,Lower middle income,SSF
+CRI,Costa Rica,Upper middle income,LCN
+CUB,Cuba,Upper middle income,LCN
+CUW,Curaçao,High income,LCN
+CYM,Cayman Islands,High income,LCN
+CYP,Cyprus,High income,ECS
+CZE,Czechia,High income,ECS
+DEU,Germany,High income,ECS
+DJI,Djibouti,Lower middle income,MEA
+DMA,Dominica,Upper middle income,LCN
+DNK,Denmark,High income,ECS
+DOM,Dominican Republic,Upper middle income,LCN
+DZA,Algeria,Lower middle income,MEA
+ECU,Ecuador,Upper middle income,LCN
+EGY,"Egypt, Arab Rep.",Lower middle income,MEA
+ERI,Eritrea,Low income,SSF
+ESP,Spain,High income,ECS
+EST,Estonia,High income,ECS
+ETH,Ethiopia,Low income,SSF
+FIN,Finland,High income,ECS
+FJI,Fiji,Upper middle income,EAS
+FRA,France,High income,ECS
+FRO,Faroe Islands,High income,ECS
+FSM,"Micronesia, Fed. Sts.",Lower middle income,EAS
+GAB,Gabon,Upper middle income,SSF
+GBR,United Kingdom,High income,ECS
+GEO,Georgia,Upper middle income,ECS
+GHA,Ghana,Lower middle income,SSF
+GIB,Gibraltar,High income,ECS
+GIN,Guinea,Lower middle income,SSF
+GMB,"Gambia, The",Low income,SSF
+GNB,Guinea-Bissau,Low income,SSF
+GNQ,Equatorial Guinea,Upper middle income,SSF
+GRC,Greece,High income,ECS
+GRD,Grenada,Upper middle income,LCN
+GRL,Greenland,High income,ECS
+GTM,Guatemala,Upper middle income,LCN
+GUM,Guam,High income,EAS
+GUY,Guyana,High income,LCN
+HKG,"Hong Kong SAR, China",High income,EAS
+HND,Honduras,Lower middle income,LCN
+HRV,Croatia,High income,ECS
+HTI,Haiti,Lower middle income,LCN
+HUN,Hungary,High income,ECS
+IDN,Indonesia,Upper middle income,EAS
+IMN,Isle of Man,High income,ECS
+IND,India,Lower middle income,SAS
+IRL,Ireland,High income,ECS
+IRN,"Iran, Islamic Rep.",Lower middle income,MEA
+IRQ,Iraq,Upper middle income,MEA
+ISL,Iceland,High income,ECS
+ISR,Israel,High income,MEA
+ITA,Italy,High income,ECS
+JAM,Jamaica,Upper middle income,LCN
+JOR,Jordan,Lower middle income,MEA
+JPN,Japan,High income,EAS
+KAZ,Kazakhstan,Upper middle income,ECS
+KEN,Kenya,Lower middle income,SSF
+KGZ,Kyrgyz Republic,Lower middle income,ECS
+KHM,Cambodia,Lower middle income,EAS
+KIR,Kiribati,Lower middle income,EAS
+KNA,St. Kitts and Nevis,High income,LCN
+KOR,"Korea, Rep.",High income,EAS
+KWT,Kuwait,High income,MEA
+LAO,Lao PDR,Lower middle income,EAS
+LBN,Lebanon,Lower middle income,MEA
+LBR,Liberia,Low income,SSF
+LBY,Libya,Upper middle income,MEA
+LCA,St. Lucia,Upper middle income,LCN
+LIE,Liechtenstein,High income,ECS
+LKA,Sri Lanka,Lower middle income,SAS
+LSO,Lesotho,Lower middle income,SSF
+LTU,Lithuania,High income,ECS
+LUX,Luxembourg,High income,ECS
+LVA,Latvia,High income,ECS
+MAC,"Macao SAR, China",High income,EAS
+MAF,St. Martin (French part),High income,LCN
+MAR,Morocco,Lower middle income,MEA
+MCO,Monaco,High income,ECS
+MDA,Moldova,Upper middle income,ECS
+MDG,Madagascar,Low income,SSF
+MDV,Maldives,Upper middle income,SAS
+MEX,Mexico,Upper middle income,LCN
+MHL,Marshall Islands,Upper middle income,EAS
+MKD,North Macedonia,Upper middle income,ECS
+MLI,Mali,Low income,SSF
+MLT,Malta,High income,MEA
+MMR,Myanmar,Lower middle income,EAS
+MNE,Montenegro,Upper middle income,ECS
+MNG,Mongolia,Lower middle income,EAS
+MNP,Northern Mariana Islands,High income,EAS
+MOZ,Mozambique,Low income,SSF
+MRT,Mauritania,Lower middle income,SSF
+MUS,Mauritius,Upper middle income,SSF
+MWI,Malawi,Low income,SSF
+MYS,Malaysia,Upper middle income,EAS
+NAM,Namibia,Upper middle income,SSF
+NCL,New Caledonia,High income,EAS
+NER,Niger,Low income,SSF
+NGA,Nigeria,Lower middle income,SSF
+NIC,Nicaragua,Lower middle income,LCN
+NLD,Netherlands,High income,ECS
+NOR,Norway,High income,ECS
+NPL,Nepal,Lower middle income,SAS
+NRU,Nauru,High income,EAS
+NZL,New Zealand,High income,EAS
+OMN,Oman,High income,MEA
+PAK,Pakistan,Lower middle income,SAS
+PAN,Panama,High income,LCN
+PER,Peru,Upper middle income,LCN
+PHL,Philippines,Lower middle income,EAS
+PLW,Palau,Upper middle income,EAS
+PNG,Papua New Guinea,Lower middle income,EAS
+POL,Poland,High income,ECS
+PRI,Puerto Rico,High income,LCN
+PRK,"Korea, Dem. People's Rep.",Low income,EAS
+PRT,Portugal,High income,ECS
+PRY,Paraguay,Upper middle income,LCN
+PSE,West Bank and Gaza,Upper middle income,MEA
+PYF,French Polynesia,High income,EAS
+QAT,Qatar,High income,MEA
+ROU,Romania,High income,ECS
+RUS,Russian Federation,Upper middle income,ECS
+RWA,Rwanda,Low income,SSF
+SAU,Saudi Arabia,High income,MEA
+SDN,Sudan,Low income,SSF
+SEN,Senegal,Lower middle income,SSF
+SGP,Singapore,High income,EAS
+SLB,Solomon Islands,Lower middle income,EAS
+SLE,Sierra Leone,Low income,SSF
+SLV,El Salvador,Upper middle income,LCN
+SMR,San Marino,High income,ECS
+SOM,Somalia,Low income,SSF
+SRB,Serbia,Upper middle income,ECS
+SSD,South Sudan,Low income,SSF
+STP,São Tomé and Principe,Lower middle income,SSF
+SUR,Suriname,Upper middle income,LCN
+SVK,Slovak Republic,High income,ECS
+SVN,Slovenia,High income,ECS
+SWE,Sweden,High income,ECS
+SWZ,Eswatini,Lower middle income,SSF
+SXM,Sint Maarten (Dutch part),High income,LCN
+SYC,Seychelles,High income,SSF
+SYR,Syrian Arab Republic,Low income,MEA
+TCA,Turks and Caicos Islands,High income,LCN
+TCD,Chad,Low income,SSF
+TGO,Togo,Low income,SSF
+THA,Thailand,Upper middle income,EAS
+TJK,Tajikistan,Lower middle income,ECS
+TKM,Turkmenistan,Upper middle income,ECS
+TLS,Timor-Leste,Lower middle income,EAS
+TON,Tonga,Upper middle income,EAS
+TTO,Trinidad and Tobago,High income,LCN
+TUN,Tunisia,Lower middle income,MEA
+TUR,Türkiye,Upper middle income,ECS
+TUV,Tuvalu,Upper middle income,EAS
+TZA,Tanzania,Lower middle income,SSF
+UGA,Uganda,Low income,SSF
+UKR,Ukraine,Lower middle income,ECS
+URY,Uruguay,High income,LCN
+USA,United States,High income,NAC
+UZB,Uzbekistan,Lower middle income,ECS
+VCT,St. Vincent and the Grenadines,Upper middle income,LCN
+VEN,"Venezuela, RB",null,LCN
+VGB,British Virgin Islands,High income,LCN
+VIR,Virgin Islands (U.S.),High income,LCN
+VNM,Viet Nam,Lower middle income,EAS
+VUT,Vanuatu,Lower middle income,EAS
+WSM,Samoa,Lower middle income,EAS
+XKX,Kosovo,Upper middle income,ECS
+YEM,"Yemen, Rep.",Low income,MEA
+ZAF,South Africa,Upper middle income,SSF
+ZMB,Zambia,Lower middle income,SSF
+ZWE,Zimbabwe,Lower middle income,SSF
