@@ -12,6 +12,12 @@ Grab them from the [slides](./slides) folder
 
 Sign up for Databricks Community Edition at [community.cloud.databricks.com](https://community.cloud.databricks.com/). The guide to importing "notebooks" is in the last page of "Data Engineering" slide.
 
+Use the following link to import the notebook content:
+
+```
+https://github.com/AdastraTH/2024-univ-workshop/raw/main/notebooks/ATH%20Workshop%202024.dbc
+```
+
 ### Power BI
 
 > [!IMPORTANT]  
